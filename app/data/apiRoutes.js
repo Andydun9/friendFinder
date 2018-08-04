@@ -74,7 +74,7 @@ module.exports = function(app){
        //returning match to front end. Need to add to an alert. 
        res.json(matchedFriend);
 
-alert(matchedFriend)
+
 
         // console.log(comparableFriends);
 
