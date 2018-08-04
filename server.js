@@ -53,5 +53,5 @@ app.listen(PORT, function() {
   console.log("Server listening on: http://localhost:" + PORT);
 
   // app.get("data/apiRoutes",req, res)
- alert(module.exports)
+
 });
